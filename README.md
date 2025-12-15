@@ -294,7 +294,7 @@ k8s_health_manager_resource_efficiency
 #### Health Report (Text)
 ```
 === Kubernetes Cluster Health Report ===
-Generated at: 2024-01-15T10:30:00Z
+Generated at: 2025-06-15T10:30:00Z
 
 Overall Health Score: 85/100
 
@@ -332,7 +332,7 @@ Cluster Storage Usage:          45.1%
 #### Cost Report (Text)
 ```
 === Kubernetes Cluster Cost Report ===
-Generated at: 2024-01-15T10:30:00Z
+Generated at: 2025-06-15T10:30:00Z
 
 Total Hourly Cost:              $12.45
 Total Monthly Cost:             $8,964.00
@@ -458,10 +458,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Roadmap
 
-- [ ] **Multi-cluster support**: Monitor multiple clusters from a single instance (KubeCostGuard Project)
-- [ ] **Historical data storage**: Store metrics in time-series database (KubeOpera Project)
+- [ ] **Multi-cluster support**: Monitor multiple clusters from a single instance (KubeOpera)
+- [ ] **Historical data storage**: Store metrics in time-series database (KubeOpera)
 - [ ] **Advanced forecasting**: ML-based cost prediction
-- [ ] **Cloud provider integration**: Direct billing API integration (KubeCostGuard Project)
+- [ ] **Cloud provider integration**: Direct billing API integration (KubeCostGuard)
 - [ ] **Slack/Teams notifications**: Real-time alerts
 - [ ] **Helm chart**: Easy deployment with Helm
-- [ ] **Web UI**: Built-in web interface for centralized multi-cluster monitoring & observability (KubeCostOpera Project)
+- [ ] **Web UI**: Built-in web interface for centralized multi-cluster monitoring & observability (KubeOpera)
